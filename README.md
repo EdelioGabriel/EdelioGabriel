@@ -2,10 +2,6 @@
 <p align="center">Ciência e Tecnologia — ILUM Escola de Ciência (CNPEM)</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EdelioGabriel/EdelioGabriel/main/black-hole.svg" width="700" alt="Accretion disk"/>
-</p>
-
-<p align="center">
   <a href="https://lattes.cnpq.br/8736458649154822">
     <img src="https://img.shields.io/badge/Lattes-CNPq-2E7D32?style=flat-square" alt="Lattes"/>
   </a>
@@ -21,14 +17,14 @@
 
 ## Sobre
 
-Graduando em Ciência e Tecnologia na ILUM Escola de Ciência (CNPEM), com formação interdisciplinar em física, engenharia e ciência da computação. Trabalho atualmente na fronteira entre modelagem física e aprendizado de máquina, com projetos que também passam por sistemas embarcados e biologia molecular aplicada.
+Graduando em Ciência e Tecnologia na ILUM Escola de Ciência (CNPEM), com formação interdisciplinar em Ciências da Vida, Ciências da Matéria, Ciência de Dados e Humanidades. Trabalho atualmente na fronteira entre modelagem física e aprendizado de máquina, com projetos que também passam por sistemas embarcados e biologia molecular aplicada.
 
 ## Áreas de pesquisa
 
-- Redes neurais informadas por física (PINNs) aplicadas a sistemas de controle e problemas inversos
-- Identificação de sistemas e controle de motores em plataformas embarcadas (ESP32)
-- Simulações científicas em cluster de alto desempenho (FEniCSx / DOLFINx, SLURM)
-- Engenharia genética aplicada — design de terapia gênica via CRISPR-Cas9
+- Redes neurais informadas por física (PINNs)
+- Identificação de sistemas e controle de motores em plataformas embarcadas
+- Simulações físicas
+- Robôtica macia
 
 <br>
 
