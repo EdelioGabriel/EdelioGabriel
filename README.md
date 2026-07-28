@@ -24,10 +24,10 @@ Graduando em Ciência e Tecnologia na ILUM Escola de Ciência (CNPEM), com forma
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:0f2e3d&height=55&section=header&text=Áreas%20de%20pesquisa&fontSize=22&fontColor=e8e8f0&fontAlignY=55" width="100%"/>
 
-- Redes neurais informadas por física (PINNs) aplicadas a sistemas de controle e problemas inversos
-- Identificação de sistemas e controle de motores em plataformas embarcadas (ESP32)
-- Simulações científicas em cluster de alto desempenho (FEniCSx / DOLFINx, SLURM)
-- Engenharia genética aplicada — design de terapia gênica via CRISPR-Cas9
+- Redes neurais informadas por física (PINNs)
+- Sistemas de controle
+- Simulações científicas
+- *Soft Robotics*
 
 <br>
 
