@@ -1,7 +1,7 @@
 <h1 align="center">Edélio Gabriel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1500&color=64FFDA&center=true&vCenter=true&width=650&lines=Controle+de+Sistemas;PINNs+%26+Problemas+Inversos;Sistemas+Embarcados+(ESP32);CRISPR-Cas9+%26+Terapia+G%C3%AAnica" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1500&color=64FFDA&center=true&vCenter=true&width=650&lines=Controle+de+Sistemas;PINNs;Sistemas+Embarcados+(ESP32)" alt="Typing SVG"/>
 </p>
 
 <p align="center">
