@@ -2,7 +2,6 @@
 
 <p align="center">
   Estudante na <b>ILUM Escola de Ciência (CNPEM)</b>, transitando entre física, engenharia e ciência computacional.<br>
-  Interesses que vão de sistemas embarcados e controle a biologia molecular e redes neurais informadas por física (PINNs).
 </p>
 
 <p align="center">
@@ -16,20 +15,9 @@
     <img src="https://img.shields.io/badge/Email-edelio.gabriel06%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
 ---
 
-### 🔬 Sobre
-
-- 🎓 Graduando na **ILUM Escola de Ciência (CNPEM)**, com formação interdisciplinar em física, engenharia e ciência da computação
-- 🧠 Trabalho atual envolve **PINNs (Physics-Informed Neural Networks)** aplicadas a sistemas de controle e problemas inversos
-- 🤖 Projetos em **sistemas embarcados** (ESP32/ESP32-S3): identificação de sistemas, controle de motores e comunicação sem fio (ESP-NOW, BLE)
-- 🧬 Experiência em **biologia molecular** aplicada, incluindo design de terapia gênica via CRISPR-Cas9
-- 💻 Uso frequente de cluster HPC (SLURM) para simulações científicas (FEniCSx/DOLFINx)
-
----
-
-### 🛠️ Stack
+### GitHub Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -44,7 +32,7 @@
 
 ---
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=EdelioGabriel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
@@ -58,5 +46,5 @@
 ---
 
 <p align="center">
-  <i>Aberto a colaborações em projetos que cruzem engenharia, ciência de dados e ciências biológicas.</i>
+  <i>Aberto a colaborações em projetos que cruzem engenharia, ciência de dados e física aplicada.</i>
 </p>
