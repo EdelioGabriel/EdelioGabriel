@@ -22,7 +22,7 @@ Graduando em Ciência e Tecnologia na ILUM Escola de Ciência (CNPEM), com forma
 ## Áreas de pesquisa
 
 - Redes neurais informadas por física (PINNs)
-- Identificação de sistemas e controle de motores em plataformas embarcadas
+- Sistema de controle
 - Simulações físicas
 - Robôtica macia
 
