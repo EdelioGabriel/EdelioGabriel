@@ -26,7 +26,7 @@ Graduando em Ciência e Tecnologia na ILUM Escola de Ciência (CNPEM), com forma
 
 - Redes neurais informadas por física (PINNs)
 - Sistemas de controle
-- Simulações científicas
+- Simulações físicas (atomística e elementos finitos)
 - *Soft Robotics*
 
 <br>
