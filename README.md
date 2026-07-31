@@ -1,5 +1,5 @@
-<h1 align="center">Edélio Gabriel</h1>
-<p align="center">Ciência e Tecnologia — ILUM Escola de Ciência (CNPEM)</p>
+<h1 align="center">Edélio Gabriel M. de Jesus</h1>
+<p align="center">Graduando na Ilum Escola de Ciência - Centro de Pesquisa em Energia e Materiais (CNPEM)</p>
 
 <p align="center">
   <a href="https://lattes.cnpq.br/8736458649154822">
